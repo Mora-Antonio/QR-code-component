@@ -30,7 +30,7 @@ main{
 .qr-container{
     width: 100%;
     height: 290px;
-    background-image: url(./qr-code/images/image-qr-code.png);
+    background-image: url(/image-qr-code.png);
     background-position: center;
     background-size: cover;
     border-radius: 10px;
